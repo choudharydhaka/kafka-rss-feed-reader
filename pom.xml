@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>nz.co.datacom.kafka.connect</groupId>
-    <artifactId>upwork-connect</artifactId>
+    <artifactId>rss-reader-connect</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>upwork-connect</name>
+    <name>rss-reader-connect</name>
 
     <properties>
         <kafka.version>0.10.0.0-cp1</kafka.version>
